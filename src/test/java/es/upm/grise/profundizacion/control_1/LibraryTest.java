@@ -165,6 +165,7 @@ public class LibraryTest {
             fail();
         }
 
+        
         library.removeBook(b1);
 
         //Una vez eliminado el libro debe saltar exception de libro inexistente
